@@ -1,0 +1,171 @@
+[
+    {
+        "sku": "SKU001",
+        "name": "Product 1",
+        "short_description": "Short description of product 1.",
+        "description": "This is the longer description of product 1.",
+        "regular_price": "12.99",
+        "product_url": "https://www.example.com/product1",
+        "images": [
+            "https://picsum.photos/300/300",
+            "https://picsum.photos/300/301",
+            "https://picsum.photos/300/302"
+        ]
+    },
+    {
+        "sku": "SKU002",
+        "name": "Product 2",
+        "short_description": "Short description of product 2.",
+        "description": "This is the longer description of product 2.",
+        "regular_price": "29.99",
+        "product_url": "https://www.example.com/product2",
+        "images": [
+            "https://picsum.photos/300/303",
+            "https://picsum.photos/300/304",
+            "https://picsum.photos/300/305"
+        ]
+    },
+    {
+        "sku": "SKU003",
+        "name": "Product 3",
+        "short_description": "Short description of product 3.",
+        "description": "This is the longer description of product 3.",
+        "regular_price": "7.99",
+        "product_url": "https://www.example.com/product3",
+        "images": [
+            "https://picsum.photos/300/306",
+            "https://picsum.photos/300/307",
+            "https://picsum.photos/300/308"
+        ]
+    },
+    {
+        "sku": "SKU004",
+        "name": "Product 4",
+        "short_description": "Short description of product 4.",
+        "description": "This is the longer description of product 4.",
+        "regular_price": "59.99",
+        "product_url": "https://www.example.com/product4",
+        "images": [
+            "https://picsum.photos/300/309",
+            "https://picsum.photos/300/310",
+            "https://picsum.photos/300/311"
+        ]
+    },
+    {
+        "sku": "SKU005",
+        "name": "Product 5",
+        "short_description": "Short description of product 5.",
+        "description": "This is the longer description of product 5.",
+        "regular_price": "15.99",
+        "product_url": "https://www.example.com/product5",
+        "images": [
+            "https://picsum.photos/300/312",
+            "https://picsum.photos/300/313",
+            "https://picsum.photos/300/314"
+        ]
+    },
+    {
+        "sku": "SKU006",
+        "name": "Product 6",
+        "short_description": "Short description of product 6.",
+        "description": "This is the longer description of product 6.",
+        "regular_price": "49.99",
+        "product_url": "https://www.example.com/product6",
+        "images": [
+            "https://picsum.photos/300/315",
+            "https://picsum.photos/300/316",
+            "https://picsum.photos/300/317"
+        ]
+    },
+    {
+        "sku": "SKU007",
+        "name": "Product 7",
+        "short_description": "Short description of product 7.",
+        "description": "This is the longer descriptionof product 7.",
+        "regular_price": "34.99",
+        "product_url": "https://www.example.com/product7",
+        "images": [
+            "https://picsum.photos/300/318",
+            "https://picsum.photos/300/319",
+            "https://picsum.photos/300/320"
+        ]
+    },
+    {
+        "sku": "SKU008",
+        "name": "Product 8",
+        "short_description": "Short description of product 8.",
+        "description": "This is the longer description of product 8.",
+        "regular_price": "19.99",
+        "product_url": "https://www.example.com/product8",
+        "images": [
+            "https://picsum.photos/300/321",
+            "https://picsum.photos/300/322",
+            "https://picsum.photos/300/323"
+        ]
+    },
+    {
+        "sku": "SKU009",
+        "name": "Product 9",
+        "short_description": "Short description of product 9.",
+        "description": "This is the longer description of product 9.",
+        "regular_price": "27.99",
+        "product_url": "https://www.example.com/product9",
+        "images": [
+            "https://picsum.photos/300/324",
+            "https://picsum.photos/300/325",
+            "https://picsum.photos/300/326"
+        ]
+    },
+    {
+        "sku": "SKU010",
+        "name": "Product 10",
+        "short_description": "Short description of product 10.",
+        "description": "This is the longer description of product 10.",
+        "regular_price": "8.99",
+        "product_url": "https://www.example.com/product10",
+        "images": [
+            "https://picsum.photos/300/327",
+            "https://picsum.photos/300/328",
+            "https://picsum.photos/300/329"
+        ]
+    },
+    {
+        "sku": "SKU011",
+        "name": "Product 11",
+        "short_description": "Short description of product 11.",
+        "description": "This is the longer description of product 11.",
+        "regular_price": "39.99",
+        "product_url": "https://www.example.com/product11",
+        "images": [
+            "https://picsum.photos/300/330",
+            "https://picsum.photos/300/331",
+            "https://picsum.photos/300/332"
+        ]
+    },
+    {
+        "sku": "SKU012",
+        "name": "Product 12",
+        "short_description": "Short description of product 12.",
+        "description": "This is the longer description of product 12.",
+        "regular_price": "16.99",
+        "product_url": "https://www.example.com/product12",
+        "images": [
+            "https://picsum.photos/300/333",
+            "https://picsum.photos/300/334",
+            "https://picsum.photos/300/335"
+        ]
+    },
+    {
+        "sku": "SKU013",
+        "name": "Product 13",
+        "short_description": "Short description of product 13.",
+        "description": "This is the longer description of product 13.",
+        "regular_price": "21.99",
+        "product_url": "https://www.example.com/product13",
+        "images": [
+            "https://picsum.photos/300/336",
+            "https://picsum.photos/300/337",
+            "https://picsum.photos/300/338"
+        ]
+    }
+]
